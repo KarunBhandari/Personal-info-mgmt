@@ -1,0 +1,15 @@
+C:\Users\Karun Bhandari\source\repos\ClassLibrary\obj\Debug\net7.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Karun Bhandari\source\repos\ClassLibrary\obj\Debug\net7.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karun Bhandari\source\repos\ClassLibrary\obj\Debug\net7.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Karun Bhandari\source\repos\ClassLibrary\obj\Debug\net7.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Karun Bhandari\source\repos\ClassLibrary\obj\Debug\net7.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Karun Bhandari\source\repos\ClassLibrary\bin\Debug\net7.0\ClassLibrary.deps.json
+C:\Users\Karun Bhandari\source\repos\ClassLibrary\bin\Debug\net7.0\ClassLibrary.dll
+C:\Users\Karun Bhandari\source\repos\ClassLibrary\bin\Debug\net7.0\ClassLibrary.pdb
+C:\Users\Karun Bhandari\source\repos\ClassLibrary\bin\Debug\net7.0\AspCoreModel.dll
+C:\Users\Karun Bhandari\source\repos\ClassLibrary\bin\Debug\net7.0\AspCoreModel.pdb
+C:\Users\Karun Bhandari\source\repos\ClassLibrary\obj\Debug\net7.0\ClassLibrary.csproj.CopyComplete
+C:\Users\Karun Bhandari\source\repos\ClassLibrary\obj\Debug\net7.0\ClassLibrary.dll
+C:\Users\Karun Bhandari\source\repos\ClassLibrary\obj\Debug\net7.0\refint\ClassLibrary.dll
+C:\Users\Karun Bhandari\source\repos\ClassLibrary\obj\Debug\net7.0\ClassLibrary.pdb
+C:\Users\Karun Bhandari\source\repos\ClassLibrary\obj\Debug\net7.0\ref\ClassLibrary.dll

@@ -1,0 +1,12 @@
+C:\Users\Karun Bhandari\source\repos\AspCoreModel\obj\Debug\net7.0\AspCoreModel.csproj.AssemblyReference.cache
+C:\Users\Karun Bhandari\source\repos\AspCoreModel\obj\Debug\net7.0\AspCoreModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karun Bhandari\source\repos\AspCoreModel\obj\Debug\net7.0\AspCoreModel.AssemblyInfoInputs.cache
+C:\Users\Karun Bhandari\source\repos\AspCoreModel\obj\Debug\net7.0\AspCoreModel.AssemblyInfo.cs
+C:\Users\Karun Bhandari\source\repos\AspCoreModel\obj\Debug\net7.0\AspCoreModel.csproj.CoreCompileInputs.cache
+C:\Users\Karun Bhandari\source\repos\AspCoreModel\bin\Debug\net7.0\AspCoreModel.deps.json
+C:\Users\Karun Bhandari\source\repos\AspCoreModel\bin\Debug\net7.0\AspCoreModel.dll
+C:\Users\Karun Bhandari\source\repos\AspCoreModel\bin\Debug\net7.0\AspCoreModel.pdb
+C:\Users\Karun Bhandari\source\repos\AspCoreModel\obj\Debug\net7.0\AspCoreModel.dll
+C:\Users\Karun Bhandari\source\repos\AspCoreModel\obj\Debug\net7.0\refint\AspCoreModel.dll
+C:\Users\Karun Bhandari\source\repos\AspCoreModel\obj\Debug\net7.0\AspCoreModel.pdb
+C:\Users\Karun Bhandari\source\repos\AspCoreModel\obj\Debug\net7.0\ref\AspCoreModel.dll

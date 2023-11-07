@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9D3ZA/4huBKxgk2NzMousxQbSvNLnSAo5lbqIW8G/AGlEAsCaPQ8KOIlKvRjEP9TOQDf4ez6NazHce4Ia8/ExA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Karun Bhandari\\source\\repos\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karun Bhandari\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
